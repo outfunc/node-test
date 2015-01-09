@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "54ab727286ae4010c8dfe23b",
+    "index": 0,
+    "guid": "27215400-a2d9-4b62-89fe-426039f28f23",
+    "isActive": true,
+    "balance": "$3,822.19",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "brown",
+    "name": "Christi Torres",
+    "gender": "female",
+    "company": "NORALI",
+    "email": "christitorres@norali.com",
+    "phone": "+1 (821) 448-2432",
+    "address": "585 Neptune Avenue, Harold, Rhode Island, 3639",
+    "about": "Excepteur exercitation elit enim deserunt in nulla in minim nulla commodo in proident veniam. Dolor sint dolor est amet aute labore minim nisi. Voluptate qui voluptate consectetur cillum eiusmod ut tempor ex sint aute enim et velit. In ea veniam non pariatur Lorem elit tempor et ut proident amet reprehenderit.\r\n",
+    "registered": "2014-03-28T01:59:24 -09:00",
+    "latitude": -1.507581,
+    "longitude": -3.431475,
+    "tags": [
+      "est",
+      "minim",
+      "ullamco",
+      "ea",
+      "aliqua",
+      "ex",
+      "velit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Henry Estrada"
+      },
+      {
+        "id": 1,
+        "name": "Macdonald Roberson"
+      },
+      {
+        "id": 2,
+        "name": "Alicia Rodriquez"
+      }
+    ],
+    "greeting": "Hello, Christi Torres! You have 9 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
+]
