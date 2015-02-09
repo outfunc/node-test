@@ -1,0 +1,21 @@
+{
+  "name": "3-3-1",
+  "version": "0.0.0",
+  "description": "",
+  "main": "ransom_story.js",
+  "dependencies": {
+    "nimble": "~0.0.2",
+    "request": "~2.53.0",
+    "htmlparser": "~1.7.7"
+  },
+  "devDependencies": {
+    "nimble": "0.0.2",
+    "htmlparser": "~1.7.7",
+    "request": "~2.53.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
