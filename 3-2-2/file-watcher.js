@@ -1,16 +1,15 @@
+var events      = require('events'),
+    util        = require('util'),
+    fs          = require('fs'),
+    watchDir    = './watch',
+    processDir  = './done';
+
 function Watcher( watchDir, processDif  ){
 	this.watchDir = watchDir;
 	this.processDir = processDir;
 }
 
-var events = require('events'),
-	util = require('util');
-
 util.inherits(Watcher, events.EventEmitter);
-
-var fs = require('fs'),
-	watchDir = './watch',
-	processDir = './done';
 
 Watcher.prototype.watch = function(){
 	var watcher = this;
